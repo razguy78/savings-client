@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const baseUrl = 'https://goals-65106.herokuapp.com';
+const baseUrl = 'https://newgoals.herokuapp.com';
 
 const config = {
   'Content-Type': 'application/json',
