@@ -2,7 +2,7 @@ import React, { createContext, useContext, useEffect, useState } from 'react';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import axios from 'axios';
 
-const baseUrl = 'https://goals-65106.herokuapp.com';
+const baseUrl = 'https://newgoals.herokuapp.com';
 
 const AuthContext = createContext();
 
