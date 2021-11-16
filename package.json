@@ -1,7 +1,7 @@
 {
   "main": "./src/components/overlay.js",
   "scripts": {
-    "start": "expo1 start",
+    "start": "expo start",
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
